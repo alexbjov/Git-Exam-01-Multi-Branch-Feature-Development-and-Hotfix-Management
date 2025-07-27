@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 Line 1 in master branch
 Line 2 in master
 Update file in master
+Line 4 in feature-auth
+Line 5 in feature-auth
 Line 6 in feature-dashboard
 Line 7 in feature-dashboard
+Line 8 in feature-auth
+Line 9 in feature-auth
