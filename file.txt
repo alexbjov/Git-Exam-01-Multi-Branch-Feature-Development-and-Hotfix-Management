@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Line 1 in master branch
 Line 2 in master
 Update file in master
+Line 6 in feature-dashboard
+Line 7 in feature-dashboard
