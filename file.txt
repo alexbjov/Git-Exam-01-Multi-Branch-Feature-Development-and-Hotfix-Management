@@ -1,2 +1,4 @@
 Line 1 in master branch
 Line 2 in master
+Line 3 in feature-auth
+Line 4 in feature-auth
